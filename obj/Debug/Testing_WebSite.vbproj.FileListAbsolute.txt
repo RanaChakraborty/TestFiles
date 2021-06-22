@@ -9,3 +9,14 @@ D:\Testing_WebSite\Testing_WebSite\obj\Debug\Testing_WebSite.xml
 D:\Testing_WebSite\Testing_WebSite\obj\Debug\Testing_WebSite.pdb
 D:\Testing_WebSite\Testing_WebSite\obj\Debug\Testing_WebSite.vbprojAssemblyReference.cache
 D:\Testing_WebSite\Testing_WebSite\obj\Debug\Testing_WebSite.vbproj.CoreCompileInputs.cache
+D:\TestGitHub\bin\Testing_WebSite.dll.config
+D:\TestGitHub\bin\Testing_WebSite.dll
+D:\TestGitHub\bin\Testing_WebSite.pdb
+D:\TestGitHub\bin\Testing_WebSite.xml
+D:\TestGitHub\obj\Debug\Testing_WebSite.vbprojAssemblyReference.cache
+D:\TestGitHub\obj\Debug\Testing_WebSite.Resources.resources
+D:\TestGitHub\obj\Debug\Testing_WebSite.vbproj.GenerateResource.cache
+D:\TestGitHub\obj\Debug\Testing_WebSite.vbproj.CoreCompileInputs.cache
+D:\TestGitHub\obj\Debug\Testing_WebSite.dll
+D:\TestGitHub\obj\Debug\Testing_WebSite.xml
+D:\TestGitHub\obj\Debug\Testing_WebSite.pdb
