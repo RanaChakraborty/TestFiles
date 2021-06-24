@@ -2,6 +2,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="NestedContent" runat="server">
 
     <asp:TextBox ID="TestBox" runat="server" ></asp:TextBox>
-    <asp:Button ID="TestButton" runat="server" Text="Test" />
-    <asp:Label ID="TestLabel" runat="server" ></asp:Label>
+    <asp:Button ID="TestButton" runat="server" Text="Submit" />
+    <asp:Label ID="TestLabel" runat="server" style="color:darkblue; font-size:xx-large" ></asp:Label>
 </asp:Content>
