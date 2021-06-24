@@ -11,7 +11,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td style="padding-left:5px">
                 <asp:Label ID="TestLabel" runat="server" Style="color: darkblue; font-size: xx-large"></asp:Label>
             </td>
         </tr>
