@@ -6,6 +6,6 @@
     End Sub
 
     Private Sub TestButton_Click(sender As Object, e As EventArgs) Handles TestButton.Click
-        TestLabel.Text = TestBox.Text
+        TestLabel.Text = TestBox.Text + "99"
     End Sub
 End Class
